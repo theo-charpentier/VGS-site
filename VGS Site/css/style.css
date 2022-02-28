@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto");
+@import url("https://fonts.googleapis.com/css2?family=Lato");
+
+@import url("components/container.css");
+@import url("components/logo.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: Roboto;
+	font-size: 16px;
+	margin: 0px;
+	color: black; 
+}
+
+h1{
+	font-family: Lato;
+	font-weight: bold;
+	color: rgb(13, 166, 255);
+
